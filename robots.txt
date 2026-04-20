@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rp55-slots.pages.dev/sitemap.xml
